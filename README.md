@@ -108,5 +108,4 @@
 全部资料简洁精炼、实用，资料所有部分均经过本人筛选，只留下精华的部分，绝不塞入任何不必要或过时的内容，很适合学习了一些python知识，急切想在树莓派上开发项目的工程师或学生使用。
 下面是我的微信，大家乐意的话可以联系我跟我交流！！！
 
-![image](https://github.com/wxlscm/raspberry_tutorial/blob/main/TutorialPrj/WeChat%20Image_20211109085112.jpg)
 
