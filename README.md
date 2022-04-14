@@ -1,7 +1,8 @@
-# Microbit_getting_started_tutorial
+# raspberry_tutorial
 这本《树莓派编程实用教程》全书共31000字，提供近20个树莓派应用实例，都在入门到中级之间，非常适合想
 在树莓派开发项目的工程师和学生参考学习，涵盖了Python，Linux命令，C/C++，OpenCV，Darknet。全部程序
 在树莓派官方发布的32位Raspberry Pi OS（2021.10.30）系统调试通过，可运行在树莓派400个人电脑，4B或3B+上。以下是全书目录：
+
 第一章	树莓派系统搭建	6
 1.1 树莓派市场分析	6
 1.1.1 树莓派成功的关键	6
@@ -76,8 +77,11 @@
 本人在书中都会详细解说程序，如下图所示：
 
 ![image](https://github.com/wxlscm/raspberry_tutorial/blob/main/TutorialPrj/7.png)
+
 本人还教大家如何省钱买树莓派，选择了两款性价比最高的——树莓派400和PICO，可以省下几百块钱。
+
 ![image](https://github.com/wxlscm/raspberry_tutorial/blob/main/TutorialPrj/8.png)
+
 全部资料简洁精炼，非常实用，全都是应用实例，很适合学习了一些python知识，急切想在树莓派上开发项目的
 工程师或学生使用。看了本教程，实际上相当于看了不少于10本书，很值得下载看看。另外，本人是工程师，
 希望能得到读者的反馈，如果你使用时出现兼容性问题，如：程序运行中出现错误，安装软件失败等问题，可以
