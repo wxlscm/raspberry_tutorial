@@ -27,8 +27,7 @@ def joystick_status():
 
 def html_for_led(led):
     l = str(led)
-    result = " <input type='button' onClick='changed(" + l + ")' value='LED "
-                + l + "'/>"
+    result = " <input type='button' onClick='changed(" + l + ")' value='LED "+ l + "'/>"
     return result
 
 def update_leds():

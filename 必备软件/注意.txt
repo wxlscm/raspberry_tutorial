@@ -1,0 +1,1 @@
+由于git限制，本文件夹删除了2021-10-30-raspios-bullseye-armhf.zip这个1.1G的大文件，大家可以下载最新的Raspberry PI OS

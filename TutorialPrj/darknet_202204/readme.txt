@@ -1,0 +1,2 @@
+请大家根据8.4节的步骤用git命令下载darknet。再把test_darknet.sh复制到darknet主目录下，最后运行程序。
+
